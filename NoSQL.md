@@ -18,7 +18,7 @@ A continuación se presenta un ejemplo de cómo se estructuraría la informació
       "saldo": 1500000.00,
       "fecha_apertura": "2022-01-15",
       "detalles_ahorro": {
-        "tasa_interes": 2.5,
+        "tasa_interes": 35.5,
         "limite_retiros": 3
       },
       "tarjetas": [
